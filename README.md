@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! I'm Ankit Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 <h2 align="center">Currently Learning Full-Stack Web Development from Masai School </h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandankitkumar1&label=Profile%20views&color=0e75b6&style=flat" alt="anandankitkumar" /> </p>
-<p><img src="https://komarev.com/ghpvc/?username=anandankitkumar1&label=PROFILE+VIEWS"/> </p>
+<p><img src="https://komarev.com/ghpvc/?username=anandankitkumar1&label=900"/> </p>
 ## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p> 
 
 - 👨‍💻 My Portfolio - **[Ankit Kumar](https://anandankitkumar1.github.io/)**
