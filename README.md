@@ -32,6 +32,10 @@
    <a href="#"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=white" alt="Git"/> </a> &nbsp;
    <a href="#"> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&labelColor=black&logo=netlify&logoColor=white" alt="Netlify"/> </a> &nbsp;
    <a href="#"> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&labelColor=black&logo=python&logoColor=white" alt="Python"/> </a> &nbsp;
+   <a href="#"> <img src="https://img.shields.io/badge/Mongodb-14354C?style=for-the-badge&labelColor=black&logo=Mongodb&logoColor=white" alt="Python"/> </a> &nbsp;
+   <a href="#"> <img src="https://img.shields.io/badge/Express-14354C?style=for-the-badge&labelColor=green&logo=Express&logoColor=red" alt="Python"/> </a> &nbsp;
+   <a href="#"> <img src="https://img.shields.io/badge/java-14354C?style=for-the-badge&labelColor=red&logo=java&logoColor=white" alt="Python"/> </a> &nbsp;
+   
 </p>
 
 <h3>📊 Github Stats</h3>
