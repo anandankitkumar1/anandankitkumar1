@@ -10,7 +10,13 @@
 
 - 📫 How to reach me **anandankit.kumar@gmail.com**
 
-- Connect with me - **[LinkedIn](https://www.linkedin.com/in/anandankitkumar/)**
+## Connect with me:
+
+<p align="left">
+<a href='https://anandankitkumar1.github.io/'><img src="https://img.icons8.com/fluent/48/000000/portfolio.png"/></a>
+<a href = "https://linkedin.com/in/anandankitkumar"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/anandankitkumar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+</p>
 
 <br/>
 
