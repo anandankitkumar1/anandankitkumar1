@@ -36,10 +36,17 @@
 
 <h3>📊 Github Stats</h3>
 <br/>
-<p align="center">
-   <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=anandankitkumar1&theme=dark" /> <br \>
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=anandankitkumar1&show_icons=true&locale=en&theme=dark"/>
-</p>
+
+<p align="center"><img align="center" width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=anandankitkumar1&show_icons=true&locale=en&theme=tokyonight" alt="anandankitkumar1" /></p>
+
+
+<p align="center">&nbsp;<img align="center" width="90%" src="https://github-readme-stats.vercel.app/api?username=anandankitkumar1&show_icons=true&locale=en&theme=tokyonight" alt="anandankitkumar1" /></p>
+
+<div class="graph-1">
+  <p align="center"><a href="https://github.com/amitsisodiya371"><img align="center" width="90%"
+     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anandankitkumar1&amp;theme=dracula&amp;bg_color=0D1117"/></a>
+  </p>
+</div>
 
 <h3 align="center">
  Show some ❤️ by starring some of the repositories!
